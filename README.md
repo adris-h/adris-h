@@ -6,20 +6,26 @@
 </svg>
 <img width="1200" height="259" alt="banner" src="https://github.com/user-attachments/assets/e18d4411-c91c-4108-b2c8-2242637344a9" />
 
-<h1 align="center">About me</h1>
+<h1 align="center">⟡ About me ⟡ </h1>
+
+<img width="501" height="248" alt="code" src="https://github.com/user-attachments/assets/4a89dc77-e75a-4a3c-b0b4-b63c79d00bc0" align="right"     style="margin-left: 20px;"/>
+<br/>
+
 <p>
-  Hi! I'm Adris Han, web & game development student. I enjoy the creation <br> and designing
-  of creative projects. <br> 
-  
-  <div id="toc"> 
-    <ul style="list-style: none; margin-bottom: 100px;">
-      <summary>
-        <h2><b>I'm interested in...</b></h2>
-      </summary>
-    </ul>
-  </div>
-  <ul>
-    <li>frontend web development</li>
-    <li>ui/ux design</li>
-  </ul>
+ Hi! I'm <a href="https://adris.dev/"><b>Adris Han</b></a>, web & game development student. I enjoy <br>creating  and designing
+  creative projects. <br> 
 </p>
+
+<div id="toc" style="display: flex; flex-direction: row;"> 
+    <ul>
+      <summary><h2><b>I'm interested in...</b></h2></summary>
+      <li style="vertical-align: middle"> 
+        <img width="7" height="7" alt="bullet" src="https://github.com/user-attachments/assets/8073b8f1-06da-4097-a2ca-6c548c8945f9" />
+        frontend web development
+      </li>
+      <li> 
+         <img width="7" height="7" alt="bullet" src="https://github.com/user-attachments/assets/8073b8f1-06da-4097-a2ca-6c548c8945f9" />
+          ui/ux design</li>
+    </ul>
+    
+  </div>
