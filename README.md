@@ -11,7 +11,8 @@
     <img width="110" height="44" alt="mail" src="https://github.com/user-attachments/assets/5fe40b52-23bd-400a-98f3-9aca933a9889" />
   </a>
   <a href="https://www.instagram.com/adrriz_/">
-    <img width="150" height="44" alt="ig" src="https://github.com/user-attachments/assets/58fc4320-421d-4ec4-945f-b22dbab5aa4a" />
+    <img width="150" height="44" alt="ig" src="https://github.com/user-attachments/assets/2e249a22-3846-4077-9e0c-e51c8c0faaf5" />
+
 
   </a>
   <a href="https://www.linkedin.com/in/adriana-hanouskov%C3%A1-7753a831a/">
