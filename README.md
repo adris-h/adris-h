@@ -4,17 +4,14 @@
   <circle cx="35.5" cy="22.5" r="8.5" fill="#2D2D2D"/>
   <circle cx="62.5" cy="22.5" r="8.5" fill="#28F42B"/>
 </svg>
-<img width="1200" height="259" alt="banner" src="https://github.com/user-attachments/assets/133d9aae-ecd8-474f-8e9b-bd60b5d8d940" />
+<img width="1200" height="226" alt="banner" src="https://github.com/user-attachments/assets/493e9d8c-9b58-4401-998a-96f84a95b136" />
+
 
 
 <h1 align="center">⟡ About me ⟡ </h1>
 
-<img width="490" height="248" alt="code" src="https://github.com/user-attachments/assets/98f93753-a67c-486b-8607-7abaf15c75bd" align="right"     style="margin-left: 20px;"/>
+<img width="490" height="248" alt="code" src="https://github.com/user-attachments/assets/402c893c-5126-4b8a-a278-8f47997c8525" align="right"     style="margin-left: 20px;"/>
 <br/>
-
-
-
-
 
 <p>
  Hi! I'm <b>Adris Han</b>, web & game development student. I enjoy creating  and designing
