@@ -44,3 +44,15 @@
 <br>
 <h1 align="center">⟡ Technologies ⟡ </h1>
 
+
+<p>
+  <img width="168" height="60" alt="py" src="https://github.com/user-attachments/assets/f5c53899-7362-4654-9a28-49bbc0f8f1d4" />
+  <img width="144" height="60" alt="scss" src="https://github.com/user-attachments/assets/7af019bb-cbe2-4f30-ba8d-9154157bd72b" />
+  <img width="162" height="60" alt="react" src="https://github.com/user-attachments/assets/96f332a2-fe62-449b-8b6c-03bd53c121f5" />
+  <img width="176" height="60" alt="sql" src="https://github.com/user-attachments/assets/9feb6f67-698d-4d42-938a-36b326be5ef8" />
+  <img width="163" height="60" alt="html" src="https://github.com/user-attachments/assets/194ce267-98c8-4f68-bf9e-00907a98547f" />
+  <img width="163" height="60" alt="java" src="https://github.com/user-attachments/assets/e2746824-d664-4686-bdc6-4f31f1521fd5" />
+  <img width="216" height="60" alt="js" src="https://github.com/user-attachments/assets/6acb543f-ab6c-412d-9686-b5d42a2dffec" />
+  <img width="151" height="60" alt="figma" src="https://github.com/user-attachments/assets/5a07edc8-991a-4389-ba1a-8fad7dfa25b7" />
+</p>
+
