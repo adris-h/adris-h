@@ -4,26 +4,23 @@
   <circle cx="35.5" cy="22.5" r="8.5" fill="#2D2D2D"/>
   <circle cx="62.5" cy="22.5" r="8.5" fill="#28F42B"/>
 </svg>
-<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/493e9d8c-9b58-4401-998a-96f84a95b136" />
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/2b39aabe-2417-4ebf-b334-c228b3954a69" />
 
 <p>
   <a href="mailto:adrianahanouskova2007@gmail.com"> 
-    <img width="110" height="44" alt="mail" src="https://github.com/user-attachments/assets/5fe40b52-23bd-400a-98f3-9aca933a9889" />
+    <img width="90" height="44" alt="mail" src="https://github.com/user-attachments/assets/9e09b08e-4eb6-43a1-b37b-790d326ded45" />
   </a>
   <a href="https://www.instagram.com/adrriz_/">
-    <img width="150" height="44" alt="ig" src="https://github.com/user-attachments/assets/2e249a22-3846-4077-9e0c-e51c8c0faaf5" />
-
-
+    <img width="150" height="44" alt="ig" src="https://github.com/user-attachments/assets/1167a6f9-207d-44ed-8d20-b0513da2d11e" />
   </a>
   <a href="https://www.linkedin.com/in/adriana-hanouskov%C3%A1-7753a831a/">
-    <img width="122" height="44" alt="link" src="https://github.com/user-attachments/assets/85b2323b-f4d8-4aa1-85b7-dc36a83556d8" />
+    <img width="122" height="44" alt="link" src="https://github.com/user-attachments/assets/4fa69d35-c5b7-44a7-bcf4-c1c972035561" />
   </a>
-  
 </p>
 
 <h1 align="center">⟡ About me ⟡ </h1>
 
-<img width="450" height="248" alt="code" src="https://github.com/user-attachments/assets/402c893c-5126-4b8a-a278-8f47997c8525" align="right"     style="margin-left: 20px;"/>
+<img width="450" height="248" alt="code" src="https://github.com/user-attachments/assets/d84d3ebd-9048-4e2c-abef-fe3192dc9e2a" align="right"     style="margin-left: 20px;"/>
 <br/>
 
 <p>
