@@ -43,8 +43,6 @@
 
 <br>
 <h1 align="center">⟡ Technologies ⟡ </h1>
-
-
 <p>
   <img width="168" height="60" alt="py" src="imgs/py.png" />
   <img width="144" height="60" alt="scss" src="imgs/scss.png" />
