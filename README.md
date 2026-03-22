@@ -6,6 +6,20 @@
 </svg>
 <img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/493e9d8c-9b58-4401-998a-96f84a95b136" />
 
+<p>
+  <a href="mailto:adrianahanouskova2007@gmail.com"> 
+    <img width="110" height="44" alt="mail" src="https://github.com/user-attachments/assets/5fe40b52-23bd-400a-98f3-9aca933a9889" />
+  </a>
+  <a href="https://www.instagram.com/adrriz_/">
+    <img width="150" height="44" alt="ig" src="https://github.com/user-attachments/assets/58fc4320-421d-4ec4-945f-b22dbab5aa4a" />
+
+  </a>
+  <a href="https://www.linkedin.com/in/adriana-hanouskov%C3%A1-7753a831a/">
+    <img width="122" height="44" alt="link" src="https://github.com/user-attachments/assets/85b2323b-f4d8-4aa1-85b7-dc36a83556d8" />
+  </a>
+  
+</p>
+
 <h1 align="center">⟡ About me ⟡ </h1>
 
 <img width="450" height="248" alt="code" src="https://github.com/user-attachments/assets/402c893c-5126-4b8a-a278-8f47997c8525" align="right"     style="margin-left: 20px;"/>
