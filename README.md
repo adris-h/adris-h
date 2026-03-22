@@ -48,11 +48,11 @@
 <p>
   <img width="168" height="60" alt="py" src="imgs/py.png" />
   <img width="144" height="60" alt="scss" src="imgs/scss.png" />
-  <img width="162" height="60" alt="react" src="react.png" />
-  <img width="176" height="60" alt="sql" src="sql.png" />
-  <img width="163" height="60" alt="html" src="html.png" />
-  <img width="163" height="60" alt="java" src="java.png" />
-  <img width="216" height="60" alt="js" src="js.png" />
-  <img width="151" height="60" alt="figma" src="figma.png" />
+  <img width="162" height="60" alt="react" src="imgs/react.png" />
+  <img width="176" height="60" alt="sql" src="imgs/sql.png" />
+  <img width="163" height="60" alt="html" src="imgs/html.png" />
+  <img width="163" height="60" alt="java" src="imgs/java.png" />
+  <img width="216" height="60" alt="js" src="imgs/js.png" />
+  <img width="151" height="60" alt="figma" src="imgs/figma.png" />
 </p>
 
